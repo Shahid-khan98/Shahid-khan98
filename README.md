@@ -27,7 +27,7 @@
 🌐 Open Source Enthusiast
 🤖 Artificial Intelligence and Machine Learning
 🚀 Web Development
-Data Science 
+🚀 Data Science 
 🌱 Continuous Learning & Career Growth  
 
 ## Let's Connect!
